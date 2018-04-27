@@ -28,3 +28,5 @@ character limit.
 ## Open-source libraries used
 
 - [RxJava2](https://github.com/ReactiveX/RxJava)
+
+<image src="https://raw.githubusercontent.com/minhnguyen31093/TwitSplit/master/device-2018-04-27-225544.png" width="360"/>
